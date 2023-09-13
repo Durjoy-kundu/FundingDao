@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Dao.sol": "proposal"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Dao.sol": {
+			"keccak256": "0x8128193877c6ab26b5e3425fd2ef86785810e9c4eda98e120d0b7cf92b36c3db",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://7d79150f868c78d7060fd9c136160d607957cb4b14579419856f5f47d121fb3c",
+				"dweb:/ipfs/QmP3VLH1hwABDB8nbiiWeyaPQFTVxSLyYvjcrWzowRDZQY"
+			]
+		}
+	},
+	"version": 1
+}
